@@ -7,3 +7,6 @@
         public int Random => new Random().Next(Min, Max + 1);
     }
 }
+
+
+// aaaaaaaaaaaaa
